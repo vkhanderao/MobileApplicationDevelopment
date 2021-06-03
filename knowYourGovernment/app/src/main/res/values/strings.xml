@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">knowYourGovernment</string>
+    <string name="searchTitle">search</string>
+    <string name="aboutTitleMenu">search</string>
+    <string name="aboutPageTitle">Civil Advocacy</string>
+    <string name="dataProviderHeading">Data Provided By</string>
+    <string name="dataProviderName">Google Civic Information Api</string>
+    <string name="author"> © 2021, K V S Akshay Kishore</string>
+    <string name="version">Version 1.0</string>
+    <string name="epDesignation">Designation</string>
+    <string name="epname">name</string>
+    <string name="epImage">TmageView</string>
+    <string name="officialEmail">Email</string>
+    <string name="officialWebsite">Website</string>
+    <string name="officialAddress">Address</string>
+    <string name="officialPhone">Phone</string>
+    <string name="officialPosition">Official Position</string>
+    <string name="officialName">Official Name</string>
+    <string name="officialparty">party Name</string>
+    <string name="currentLocation">current Location</string>
+    <string name="youtubeButton">Youtube Button</string>
+    <string name="twitterButton">Twitter Button</string>
+    <string name="facebookLocation">Facebook Button</string>
+    <string name="officialPartyButton">Official Party Button</string>
+    <string name="officialImage">Official Image</string>
+    <string name="fillAddress">fill Address</string>
+    <string name="fillPhone">fill Phone</string>
+    <string name="fillWebsite">fill Website</string>
+    <string name="fillEmail">fill Email</string>
+    <string name="deniedText">Permission Denied</string>
+
+</resources>
