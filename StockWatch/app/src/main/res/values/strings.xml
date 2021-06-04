@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="menu_item">item</string>
+    <string name="text_view_label">text</string>
+    <string name="text_view_label_value">textView</string>
+    <string name="image_view_label_value">imageView</string>
+</resources>
